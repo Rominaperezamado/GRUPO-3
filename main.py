@@ -26,9 +26,12 @@ st.title('Dashboard Programación Avanzada')
 st.header('Proyecto: Análisis de residuos sólidos en el Perú', divider=True)
 st.header('Integrantes:', divider=True)
 st.markdown('''
-            - **Antay Bellido Lizbeth**
-            - **Atao Surichaqui Ester Solamit**
+            - **Lizbeth Antay Bellido **
+            - **Ester Solamit Atao Surichaqui **
             - **Romina Perez Amado**
+            - **Camilla Pacora Mendoza**
+            - **Jose Mollisaca Yapo**
+            - **Braddley Leona Taipe**
             ''')
 st.header('Resumen:', divider=True)
 
